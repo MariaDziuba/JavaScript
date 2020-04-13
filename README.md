@@ -67,7 +67,7 @@ println(expr(5));
  * *Базовая*
     * Код должен находиться в файле `functionalExpression.js`.
     * [Исходный код тестов](javascript/jstest/functional/FunctionalExpressionTest.java)
-        * Запускать c аргументом `hard` или `easy`;
+        * Запускать c аргументом `easy`;
  * *Mini*
     * Не поддерживаются бинарные операции
     * Код находится в файле [functionalMiniExpression.js](javascript/functionalMiniExpression.js).
